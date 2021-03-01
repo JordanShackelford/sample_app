@@ -1,0 +1,2 @@
+module UrgayHelper
+end
